@@ -3,3 +3,5 @@ A Resume Application that lets you create a resume by choosing different templat
 
 
 To run this project, go to src-> main-> webapp -> *index.jsp*
+
+To see the <a href="https://screenrec.com/share/MA907nSTYC">demo</a> click here.
